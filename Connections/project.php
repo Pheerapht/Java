@@ -2,7 +2,7 @@
 # FileName="Connection_php_mysql.htm"
 # Type="MYSQL"
 # HTTP="true"
-$hostname_project = "localhost";
+$hostname_project = "https://node31502-my-shop.app.ruk-com.cloud/";
 $database_project = "project";
 $username_project = "root";
 $password_project = "RYOadx55337";
