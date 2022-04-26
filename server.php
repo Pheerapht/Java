@@ -7,7 +7,7 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'project');
+$db = mysqli_connect('https://node31502-my-shop.app.ruk-com.cloud/', 'root', 'RYOadx55337', 'project');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
